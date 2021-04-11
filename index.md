@@ -4,8 +4,8 @@ title: "Home"
 ---
 
 ## About me
-<p align = "center" >
-   <img  width = "300" src = "Bio.jpg" >
+<p align = "center">
+<img  width = "300" src = "Bio.jpg">
 </p>
 
 
