@@ -6,8 +6,8 @@ layout: page
 
 ## Education
 
-- PhD student (Supervisor: [Prof. Xilei Zhao](https://www.essie.ufl.edu/people/name/xilei-zhao/))in Transportation Engineering, Department of Civil and Costal Engineering, University of Florida, Jan. 2021 - Present
-- Visiting research intern (Supervisor: [Prof. Zhibin Chen](https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen)),  Division of Engineering and Computer Science, New York University Shanghai, Aug. 2020 - Present
+- PhD student (Supervisor: [Prof. Xilei Zhao](https://www.essie.ufl.edu/people/name/xilei-zhao/))  in Transportation Engineering, Department of Civil and Costal Engineering, University of Florida, Jan. 2021 - Present
+- Visiting research intern (Supervisor: [Prof. Zhibin Chen](https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen)), Division of Engineering and Computer Science, New York University Shanghai, Aug. 2020 - Present
 - B.S. in Railway Transportation (Supervisor: [Prof. Hongtai Yang](https://faculty.swjtu.edu.cn/yanghongtai/en/index.htm)), School of Transportation and Logistics, Southwest Jiaotong University, Aug. 2016 - Jun. 2020
 
 ## Research Interests
