@@ -27,12 +27,12 @@ layout: page
 
 - **Zhang, X.**, Yang, Y., Cochran, A. L., McDonald, N., & Zhao, X.<sup>*</sup> (2021). [*Optimizing Demand-Responsive Paratransit Operations: A Mixed Integer Programming Approach*](https://arxiv.org/pdf/2012.10648). Proceedings of 55th Annual Conference on Information Sciences and Systems (CISS). (Invited paper)
 
-- **Zhang, X.**, & Zhao, X.<sup>*</sup> (2021). *A clustering-aided ensemble method for predicting ridesourcing demand in Chicago*. Proceedings of Transportation Research Board 100th Annual Meeting.
+- **Zhang, X.**, & Zhao, X.<sup>*</sup> (2021). _A clustering-aided ensemble method for predicting ridesourcing demand in Chicago_. Proceedings of Transportation Research Board 100th Annual Meeting.
 
-- Hong, T., Zheng, R., Fan, W.<sup>*</sup>, **Zhang, X.** & Zhang, Z. (2021). *Optimization of Intercity Demand Response Transit Service Design Considering Zoning Strategy*. Proceedings of Transportation Research Board 100th Annual Meeting.
+- Hong, T., Zheng, R., Fan, W.<sup>*</sup>, **Zhang, X.** & Zhang, Z. (2021). _Optimization of Intercity Demand Response Transit Service Design Considering Zoning Strategy_. Proceedings of Transportation Research Board 100th Annual Meeting.
 
 ## Thesis
-- Undergraduate: **Zhang, X.**, Yang, H.<sup>*</sup>. *Modeling and Optimization of Demand ResponsiveConnector Services*. 
+- Undergraduate: **Zhang, X.**, Yang, H.<sup>*</sup>. _Modeling and Optimization of Demand ResponsiveConnector Services_. 
 
 
 ## Selected Awards
