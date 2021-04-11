@@ -31,3 +31,8 @@ layout: page
 
 - Hong, T., Zheng, R., Fan, W.^*, **Zhang, X.** & Zhang, Z. (2021). *Optimization of Intercity Demand Response Transit Service Design Considering Zoning Strategy*. Proceedings of Transportation Research Board 100th Annual Meeting.
 
+## Selected Awards
+- National Second Prize, Digital China Innovation Contest (DCIC) 2020, Big Data Track
+- Lixin Tang's Scholarship, Dec. 2019
+- National Scholarship, Oct. 2019
+- MCM/ICM, Meritorious Winner, Feb. 2019
