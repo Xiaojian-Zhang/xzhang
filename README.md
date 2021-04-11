@@ -22,7 +22,7 @@ layout: page
  - [ResearchGate](https://www.researchgate.net/profile/Xiaojian-Zhang-8)
  - [Zhihu](https://www.zhihu.com/people/xie-xie-nong-35-99)
 
-## Publications
+## Publications (Work harder and keep tuned!)
 - Yan, X., Yang, W., **Zhang, X.**, Xu, Y., Bejleri, I., & Zhao, X.^* (2021). [*Do e-scooters fill mobility gaps and promote equity before and during COVID-19? A spatiotemporal analysis using open big data*](https://arxiv.org/abs/2103.09060).  (Under Review)
 
 - **Zhang, X.**, Yang, Y., Cochran, A. L., McDonald, N., & Zhao, X.^* (2021). [*Optimizing Demand-Responsive Paratransit Operations: A Mixed Integer Programming Approach*](https://arxiv.org/pdf/2012.10648). Proceedings of 55th Annual Conference on Information Sciences and Systems (CISS). (Invited paper)
@@ -32,6 +32,7 @@ layout: page
 - Hong, T., Zheng, R., Fan, W.^*, **Zhang, X.** & Zhang, Z. (2021). *Optimization of Intercity Demand Response Transit Service Design Considering Zoning Strategy*. Proceedings of Transportation Research Board 100th Annual Meeting.
 
 ## Selected Awards
+- Waiting for final results, Digital China Innovation Contest (DCIC) 2021, Big Data for City Management Track
 - National Second Prize, Digital China Innovation Contest (DCIC) 2020, Big Data Track
 - Lixin Tang's Scholarship, Dec. 2019
 - National Scholarship, Oct. 2019
