@@ -32,7 +32,7 @@ layout: page
 - Yang, H., Zheng, R., Fan, W.<sup>*</sup>, **Zhang, X.** & Zhang, Z. (2021). _Optimization of Intercity Demand Response Transit Service Design Considering Zoning Strategy_. Proceedings of Transportation Research Board 100th Annual Meeting.
 
 ## Thesis
-- Undergraduate: **Zhang, X.**, Yang, H<sup>*</sup>(2020). _Modeling and Optimization of Demand ResponsiveConnector Services_. 
+- Undergraduate: **Zhang, X.**, Yang, H<sup>*</sup>(2020). _Modeling and Optimization of Demand Responsive Connector Services_. 
 
 
 ## Selected Awards
