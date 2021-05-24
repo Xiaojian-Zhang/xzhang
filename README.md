@@ -36,7 +36,7 @@ layout: page
 
 
 ## Selected Awards
-- Waiting for final results, Digital China Innovation Contest (DCIC) 2021, Big Data for City Management Track
+- **National First Prize**, Digital China Innovation Contest (DCIC) 2021, Big Data for City Management Track
 - National Second Prize, Digital China Innovation Contest (DCIC) 2020, Big Data Track
 - Lixin Tang's Scholarship, Dec. 2019
 - National Scholarship, Oct. 2019
