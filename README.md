@@ -8,7 +8,7 @@ layout: page
 
 - PhD student (Supervisor: [Prof. Xilei Zhao](https://www.essie.ufl.edu/people/name/xilei-zhao/))  in Transportation Engineering, Department of Civil and Costal Engineering, University of Florida, Jan. 2021 - Present
 - Visiting research intern (Supervisor: [Prof. Zhibin Chen](https://shanghai.nyu.edu/academics/faculty/directory/zhibin-chen)), Division of Engineering and Computer Science, New York University Shanghai, Aug. 2020 - Present
-- B.S. in Railway Transportation (Supervisor: [Prof. Hongtai Yang](https://faculty.swjtu.edu.cn/yanghongtai/en/index.htm)), School of Transportation and Logistics, Southwest Jiaotong University, Aug. 2016 - Jun. 2020
+- B.E. in Transportation Engineering (**Tianyou Honor Program**, Supervisor: [Prof. Hongtai Yang](https://faculty.swjtu.edu.cn/yanghongtai/en/index.htm)), School of Transportation and Logistics, Southwest Jiaotong University, Aug. 2016 - Jun. 2020
 
 ## Research Interests
 - Machine Learning Applications
@@ -19,6 +19,7 @@ layout: page
 ## Social Media
 
  - [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=VpVo0MQAAAAJ)
+ - [Linkedin](https://www.linkedin.com/in/xiaojian-zhang-16a89a1b6/)
  - [ResearchGate](https://www.researchgate.net/profile/Xiaojian-Zhang-8)
  - [Zhihu](https://www.zhihu.com/people/xie-xie-nong-35-99)
 
