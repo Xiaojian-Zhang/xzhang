@@ -24,7 +24,7 @@ layout: page
  - [Zhihu](https://www.zhihu.com/people/xie-xie-nong-35-99)
 
 ## Publications (Work harder and keep tuned!)
-- **Zhang, X.** & Zhao, X.<sup>*</sup> (2022). [* Machine learning approach for spatial modeling of ridesourcing demand.*](Journal of Transport Geography).  Transportation Research Part D: Transport and Environment, Elsevier, 2022: 103310.
+- **Zhang, X.** & Zhao, X.<sup>*</sup> (2022). [*Machine learning approach for spatial modeling of ridesourcing demand.*](https://www.sciencedirect.com/science/article/pii/S0966692322000333).  Journal of Transport Geography, Elsevier, 2022: 103310.
 
 - Yan, X., Yang, W., **Zhang, X.**, Xu, Y., Bejleri, I., & Zhao, X.<sup>*</sup> (2021). [*A spatiotemporal analysis of e-scooters’ relationships with transit and station-based bikeshare*](https://www.sciencedirect.com/science/article/pii/S1361920921003849).  Transportation Research Part D: Transport and Environment, Elsevier, 2021: 103088.
 
